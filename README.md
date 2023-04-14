@@ -35,5 +35,7 @@ Total Bugs:13
 
 
 ### ---------------------------Severity----------------------
+# Bug Severity wise Report
+![table](https://user-images.githubusercontent.com/45961823/231940585-c2e0a91e-db3e-4d70-8ac2-a29cda929ce1.PNG)
+![sevirity chart](https://user-images.githubusercontent.com/45961823/231940640-fa6cd31b-dd1c-4d4d-99fa-ee8ba9073c28.PNG)
 
-![Daraz31](https://user-images.githubusercontent.com/68694418/196050265-d1588a36-7a77-4c42-80b6-f801288ff32e.jpg)
